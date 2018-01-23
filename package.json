@@ -1,0 +1,26 @@
+{
+  "name": "workshop-evia-react-starter",
+  "description": "React Starter Workshop Project",
+  "version": "0.1.0",
+  "author": {
+    "name": "Igor Ilic",
+    "email": "igor.ilic@evia.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:igordilic/workshop-react-starter.git"
+  },
+  "licence": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
